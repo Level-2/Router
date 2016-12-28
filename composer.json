@@ -1,0 +1,6 @@
+{
+    "name" : "level-2/router",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
