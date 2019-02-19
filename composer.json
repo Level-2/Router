@@ -1,6 +1,8 @@
 {
     "name" : "level-2/router",
     "autoload": {
-       "classmap": ["src/"]
+    	"psr-4": {
+            "Level2\\Router": "./src"
+        }
     }
 }
